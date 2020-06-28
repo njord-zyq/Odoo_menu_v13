@@ -12,3 +12,5 @@ odoo13 菜单美化
 - 支持icon图标
 
 ## 效果
+
+![info](static/description/employee.png)
